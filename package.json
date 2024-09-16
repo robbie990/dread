@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "all": "^0.0.0",
+    "better-sqlite3": "^11.3.0",
+    "canvafy": "^7.1.0",
+    "canvas": "^2.11.2",
+    "discord.js": "^14.15.2",
+    "dotenv": "^16.4.5",
+    "mongodb": "^6.6.2",
+    "mongoose": "^6.0.12",
+    "quick.db": "^9.1.7"
+  },
+  "name": "bot-command",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node src/index.js"
+  },
+  "author": "rob",
+  "license": "ISC",
+  "description": ""
+}
